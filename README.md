@@ -5,11 +5,11 @@ When running the script, the user will be prompted about how many datasets he wa
 
 This is an example of the content of the .txt file, where we have 4 OTUs and species names A, B, C and D:
 
-4
-A 0 1 2 3 
-B 1 0 4 5
-C 2 4 0 6
-D 3 5 6 0 
+4 \n
+A 0 1 2 3 \n
+B 1 0 4 5 \n 
+C 2 4 0 6 \n
+D 3 5 6 0 \n
 
 Please note that this example is merely illustrative.
 
